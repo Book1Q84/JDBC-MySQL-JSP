@@ -1,0 +1,52 @@
+h2 {
+font-family: Georgia;
+letter-spacing: 12px;
+width:400px;
+margin:0 auto;
+border:red solid thin;
+outline:#FFFF00 dotted thick;}
+h4 {
+font-family: Georgia;
+width:380px;
+margin:0 auto;
+}
+
+p.style_1{
+position: absolute;
+left:330px;
+}
+
+p.style_2{
+position: absolute;
+left:330px;
+top:380px;
+}
+
+p.style_3{
+position: absolute;
+left:370px;
+top:380px;
+text-decoration: underline;
+}
+
+p.style_4{
+position: absolute;
+left:330px;
+top:415px;
+}
+
+p.style_5{
+position: absolute;
+left:370px;
+top:450px;
+}
+
+#sub{
+width:100px;
+height:35px;
+line-height:35px; 
+no-repeat;border:none;
+}
+#sub:hover{
+background-color:#FFFFCC
+}
